@@ -1,0 +1,12 @@
+{
+    "name": "Pelisalacarta (PelisDanko)",
+    "plugin": "plugin.video.pelisalacarta",
+	"movies": [
+        [
+            {
+                "link": "plugin://plugin.video.pelisalacarta/?channel=pelisdanko&action=play&title={title}&extra={title}",
+			"action": "PLAY"
+            }
+        ]
+	]
+}
