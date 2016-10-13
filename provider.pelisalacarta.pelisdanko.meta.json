@@ -4,8 +4,8 @@
 	"movies": [
         [
             {
-                "link": "plugin://plugin.video.pelisalacarta/?channel=pelisdanko&action=play&title={title}&extra={title}&category=Cine",
-			"action": "PLAY"
+                "link": "plugin://plugin.video.pelisalacarta/?channel=pelisdanko&action=do_search&title={title}&extra={title}&category=Cine",
+			"action": "ACTIVATE"
             }
         ]
 	]
