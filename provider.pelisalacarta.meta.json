@@ -1,0 +1,12 @@
+{
+    "name": "Pelisalacarta",
+    "plugin": "plugin.video.pelisalacarta",
+	"movies": [
+        [
+            {
+                "link": "plugin://plugin.video.pelisalacarta/?channel=buscador&action=do_search&title={title}&extra={title}",
+			"action": "ACTIVATE"
+            }
+        ]
+	]
+}
